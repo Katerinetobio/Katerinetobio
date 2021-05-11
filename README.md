@@ -1,5 +1,5 @@
 <h2> Hi, I'm Katerine Tobio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/61791054/117738352-38da2100-b1d2-11eb-872b-901cdab036f1.png" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/61791054/117754638-1acfe900-b1f1-11eb-8146-8eee1e6c18b2.png" width="230">
 <p><em> Bachelor's degree in Mathematics at <a href="https://unisucre.edu.co">University of Sucre</a><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s18da0577f0db350b/image/i6a0f54f58d2460f5/version/1584914109/image.gif" width="30"></br>PhD student in Education for Science <a href="https://www.fc.unesp.br"> São Paulo State University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
