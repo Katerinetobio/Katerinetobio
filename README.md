@@ -21,7 +21,9 @@ me_df <- data.frame(
 me_df
 
 ```
+### Curriculum:
 
+<p><em> <a href="http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494521"> <img src="https://user-images.githubusercontent.com/61791054/117750122-45b63f00-b1e9-11eb-9265-f729178ab9fb.png" width="50"" width="30"></a> <img src="https://user-images.githubusercontent.com/61791054/117751221-1accea80-b1eb-11eb-9407-f5c51fb81910.png" width="50"" width="30"></br>
 
 ---
 
