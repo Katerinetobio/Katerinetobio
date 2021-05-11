@@ -23,7 +23,11 @@ me_df
 ```
 ### Curriculum:
 
-<p><em> <a href="http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494521"> <img src="https://user-images.githubusercontent.com/61791054/117750122-45b63f00-b1e9-11eb-9265-f729178ab9fb.png" width="50"" width="30"></a> <a href="http://lattes.cnpq.br/1854645723458518"><img src="https://user-images.githubusercontent.com/61791054/117751221-1accea80-b1eb-11eb-9407-f5c51fb81910.png" width="50"" width="30"></br>
+<p><em> <a href="http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001494521"> <img src="https://user-images.githubusercontent.com/61791054/117750122-45b63f00-b1e9-11eb-9265-f729178ab9fb.png" width="50"" width="30"></a> 
+  <a href="http://lattes.cnpq.br/1854645723458518"><img src="https://user-images.githubusercontent.com/61791054/117751221-1accea80-b1eb-11eb-9407-f5c51fb81910.png" width="50"" width="30">
+  <a href="https://orcid.org/0000-0003-2694-546X"><img src="https://user-images.githubusercontent.com/61791054/117752222-caef2300-b1ec-11eb-99e3-b60fbceab717.png" width="50"" width="30">
+  </br>
+
 
 ---
 
