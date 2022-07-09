@@ -13,10 +13,10 @@
 ```r
 me_df <- data.frame(
 "pronouns" = c("She", "Her", "She", "Miss"), 
-"code" = c("Python", "Python", "Python", "R", "Python_R", "Python_R"), 
-"tools" = c("Panda", "TensorFlow", "Sklearn", "Rstudio", "Kaggle", "Colab"),
-"research interest" = c("MachineLearning", "DeepLearning", "DeepLearning", 
-                        "statistical_analysis", "ML_DpL", "ML_DpL")
+"code" = c("R", "Python", "Java"), 
+"tools" = c("Rstudio", "Kaggle", "Colab", "Visual Studio Code", "BlueJ", "NetBeans"),
+"research interest" = c("Mathematic Education", "Computational Thinking", "Learning Styles", "Machine Learning", 
+                        "Statistical Analysis")
 )
 me_df
 
