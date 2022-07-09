@@ -12,7 +12,7 @@
 
 ```r
 me_df <- data.frame(
-"pronouns" = c("She", "Her", "She", "Her", "She", "Her"), 
+"pronouns" = c("She", "Her", "She", "Miss"), 
 "code" = c("Python", "Python", "Python", "R", "Python_R", "Python_R"), 
 "tools" = c("Panda", "TensorFlow", "Sklearn", "Rstudio", "Kaggle", "Colab"),
 "research interest" = c("MachineLearning", "DeepLearning", "DeepLearning", 
