@@ -15,7 +15,8 @@ me_df <- data.frame(
 "pronouns" = c("She", "Her", "She", "Miss"), 
 "code" = c("R", "Python", "Java"), 
 "tools" = c("Rstudio", "Kaggle", "Colab", "Visual Studio Code", "BlueJ", "NetBeans"),
-"research interest" = c("Mathematic Education", "Computational Thinking", "Learning Styles", "Machine Learning", 
+"research interest" = c("Mathematic Education", "Computational Thinking", 
+                        "Learning Styles", "Machine Learning", 
                         "Statistical Analysis")
 )
 me_df
