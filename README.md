@@ -1,6 +1,6 @@
-<h2> Hi, I'm Katerine Tobio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/61791054/117754638-1acfe900-b1f1-11eb-8146-8eee1e6c18b2.png" width="230">
-<p><em> Bachelor's degree in Mathematics at <a href="https://unisucre.edu.co">University of Sucre</a><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s18da0577f0db350b/image/i6a0f54f58d2460f5/version/1584914109/image.gif" width="30"></br>PhD student in Education for Science <a href="https://www.fc.unesp.br"> São Paulo State University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi, I'm Katerine Tobio! </h2>
+
+<p><em> Bachelor's degree in Mathematics at <a href="https://unisucre.edu.co">University of Sucre</a></br>PhD student in Education for Science <a href="https://www.fc.unesp.br"> São Paulo State University</a>
 </em></p>
 
 [![Linkedin: Katerinetobio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katerinetobio/)](https://www.linkedin.com/in/katerinetobio/)
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/katetobio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/katerinetobio/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```r
 me_df <- data.frame(
