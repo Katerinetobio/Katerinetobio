@@ -1,6 +1,6 @@
 <h2> Hi, I'm Katerine Tobio! </h2>
 
-<p><em> Bachelor's degree in Mathematics at <a href="https://unisucre.edu.co">University of Sucre</a></br>PhD student in Education for Science <a href="https://www.fc.unesp.br"> São Paulo State University</a>
+<p><em> Professor at the <a href="http://delapaz.unal.edu.co/">National University of Colombia</a></br>Bachelor's degree in Mathematics at <a href="https://unisucre.edu.co">University of Sucre</a></br>PhD student in Education for Science <a href="https://www.fc.unesp.br"> São Paulo State University</a>
 </em></p>
 
 [![Linkedin: Katerinetobio](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katerinetobio/)](https://www.linkedin.com/in/katerinetobio/)
